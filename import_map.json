@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "cbor-x": "https://deno.land/x/cbor@v1.5.4/index.js",
+    "std/": "https://deno.land/std@0.201.0/",
+    "uid": "https://esm.sh/uid@2.0.2"
+  }
+}
